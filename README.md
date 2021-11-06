@@ -4,14 +4,14 @@ Majority of details are available here: https://community.arduboy.com/t/ashteroi
 **But here's it relisted:**
 
 **Parts List**
-6x Momentary push buttons 6x6mm 4 pins
-MT3608 - Stepup voltage converter
-TP4056 - Battery charging
-3.7v 150mAh LiPo battery
-SH1106 or SSD1306 (It supports most screens but requires a different library for uploading, details further down)
-Piezo Speaker (I’m unsure which one specifically)
-Arduino/Sparkfun Pro Micro 5v 16Mhz
-Standard 3 pin switch
+* 6x Momentary push buttons 6x6mm 4 pins
+* MT3608 - Stepup voltage converter
+* TP4056 - Battery charging
+* 3.7v 150mAh LiPo battery
+* SH1106 or SSD1306 (It supports most screens but requires a different library for uploading, details further down)
+* Piezo Speaker (I’m unsure which one specifically)
+* Arduino/Sparkfun Pro Micro 5v 16Mhz
+* Standard 3 pin switch
 
 **Gerber Files**
 Available through the latest release
