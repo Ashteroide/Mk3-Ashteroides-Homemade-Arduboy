@@ -9,6 +9,7 @@ Majority of details are available here: https://community.arduboy.com/t/ashteroi
 <img src="Images/BackView.jpg" width=50% height=50%>
 
 <h2>Parts List</h2>
+
 * 6x Momentary push buttons 6x6mm 4 pins
 * MT3608 - Stepup voltage converter
 * TP4056 - Battery charging
