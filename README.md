@@ -21,6 +21,10 @@ Majority of details are available here: https://community.arduboy.com/t/ashteroi
 <h2>Gerber Files</h2>
 Available through the latest release
 
+<h2>Uploading Games</h2>
+
+SSD1306 can use the standard Arduboy library, but the SH1106 and most other screens require [Mr. Blinky's Homemade Library](https://github.com/MrBlinky/Arduboy-homemade-package)
+
 <h2>Other Details</h2>
 
 This was designed because my other homemade Arduboy had broken and I needed a new one, other designs had a lot of other stuff or different parts so I opted to make my own, through trial and error I was able to reach Mk3 (Mk1 and Mk2 failed unfortunately). The Battery does receive 4.2v so I highly recommend a battery with a circuit protection (I don't think it causes any issues with it though)
