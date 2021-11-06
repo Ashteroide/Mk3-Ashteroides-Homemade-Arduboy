@@ -3,6 +3,12 @@ Majority of details are available here: https://community.arduboy.com/t/ashteroi
 
 **But here's it relisted:**
 
+**Images**
+
+![Front View](images/IMG_2147 1.jpg)
+
+![Back View](images/IMG_2148 1.jpg)
+
 **Parts List**
 * 6x Momentary push buttons 6x6mm 4 pins
 * MT3608 - Stepup voltage converter
