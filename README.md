@@ -11,6 +11,7 @@ TP4056 - Battery charging
 SH1106 or SSD1306 (It supports most screens but requires a different library for uploading, details further down)
 Piezo Speaker (I’m unsure which one specifically)
 Arduino/Sparkfun Pro Micro 5v 16Mhz
+Standard 3 pin switch
 
 **Gerber Files**
 Available through the latest release
