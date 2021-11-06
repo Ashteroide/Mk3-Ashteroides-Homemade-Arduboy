@@ -1,4 +1,4 @@
-# Mk3-Ashteroides-Homemade-Arduboy
+# Ashteroide's Mk3 DIY Homemade Arduboy!
 Majority of details are available here: https://community.arduboy.com/t/ashteroides-mk3-homemade-arduboy/10124
 
 <h2>But here's it relisted:</h2>
