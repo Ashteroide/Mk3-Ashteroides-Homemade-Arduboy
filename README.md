@@ -5,9 +5,9 @@ Majority of details are available here: https://community.arduboy.com/t/ashteroi
 
 **Images**
 
-![Front View](images/IMG_2147 1.jpg)
+![Front View](images/FrontView.jpg)
 
-![Back View](images/IMG_2148 1.jpg)
+![Back View](images/BackView.jpg)
 
 **Parts List**
 * 6x Momentary push buttons 6x6mm 4 pins
